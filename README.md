@@ -140,13 +140,6 @@ Run your build process with `npm run dev`or whatever command is configured in yo
 npm run dev
 ```
 
-## Author
-
-👤 **Jeff Jiang**
-
-- Website: [jeff-jiang.com](https://jeff-jiang.com)
-- Github: [@jeffiang13](https://github.com/jeffjiang13)
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
